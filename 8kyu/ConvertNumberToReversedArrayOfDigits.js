@@ -36,3 +36,6 @@ function digitize(n) {
     
     return newArr;
   }
+
+
+  
